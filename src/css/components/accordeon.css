@@ -1,3 +1,12 @@
-/**
-* Accordeon
-*/
+.accordeon{
+    display: flex;
+}
+
+details{
+    display: flex;
+    transition: width 2s;
+}
+
+summary{
+    list-style: none;
+}

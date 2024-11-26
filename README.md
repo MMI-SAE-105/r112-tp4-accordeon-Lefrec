@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Vincent
+- prénom : Paolo
+- URL Netlify : https://r112-tp4-accordeon-lefrec.netlify.app
 
 # Travail
 
