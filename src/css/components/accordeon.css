@@ -4,7 +4,12 @@
 
 details{
     display: flex;
-    transition: width 2s;
+    width: 150px;
+    transition: width 1s;
+}
+
+details[open]{
+    width: 300px;
 }
 
 summary{
